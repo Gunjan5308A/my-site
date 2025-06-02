@@ -1,0 +1,54 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #2b3a42;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+/* Sections */
+section {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+/* Features */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 18px;
+    padding: 8px;
+}
+
+/* Images */
+.robot-img {
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
