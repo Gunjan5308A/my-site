@@ -7,6 +7,12 @@ body {
     text-align: center;
 }
 
+img {
+    border-radius: 50%;
+    width: 320px;
+    height: 300px;
+}
+
 /* Header */
 header {
     background-color: #2b3a42;
