@@ -24,7 +24,7 @@ def assess_plant_health(image_data):
         elif red > green and red > blue:
             yellow_count += 1
         elif red > green and blue < 50:
-            brown_count += 1
+            brown_count += 1 
 
     green_ratio = green_count / total_pixels
     yellow_ratio = yellow_count / total_pixels
